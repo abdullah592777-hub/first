@@ -9,5 +9,6 @@ public:
 int main() {
     Hello hello;
     hello.sayHello();
+    cout<<"Hello, C++14!" << endl;
     return 0;
 }
